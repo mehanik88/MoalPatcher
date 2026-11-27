@@ -10,7 +10,7 @@ Moal Patcher применяет патч драйвера Wi‑Fi на совм�
 - **«При загрузке»** включает автоматическое применение патча при запуске головного устройства.
 - **«Откатить»** возвращает штатный модуль Wi‑Fi. Если хотите сохранить откат после перезагрузки, выключите **«При загрузке»**.
 
-[Скачать APK](https://github.com/mehanik88/MoalPatcher/releases/download/v1.0/app-release.apk)
+[Скачать APK](https://github.com/mehanik88/MoalPatcher/releases/download/v1.0/Moal.Patcher.apk)
 
 ## Скриншот
 
